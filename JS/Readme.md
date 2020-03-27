@@ -1,4 +1,4 @@
-# These are th coding challenges from 10 days of Javascript at Hackerrank
+# Coding challenges from 10 days of Javascript at Hackerrank
 
 Not all files are uploaded here but most are
 
