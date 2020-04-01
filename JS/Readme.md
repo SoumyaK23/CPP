@@ -6,7 +6,7 @@ Challenge|	Solutions|	Points
  ------------- |:-------------:| -----:|
 Hello World|	HelloWorld.js|	10
 Data Types|	DataTypes.js|	10
-Arithmetic Operations|	factorial.js    |	10
+Arithmetic Operations|ArithmeticOperators.js |	10
 Functions|	Functions.js|	10
 Let And Const|	letAndConst.js |	10
 Conditional Statements:If else|	If-Else-Statements.js|	10
