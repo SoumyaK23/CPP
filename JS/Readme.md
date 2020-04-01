@@ -17,6 +17,8 @@ Try , Catch and Finally|	TryCatchFinally.js|	15
 Throw|	throw.js|	15
 Objects|	Objects.js|	15
 Count Objects|	countObjects.js |	15
-Classes|	arrowFunctions.js|	15
+Classes|	Classes.js|	15
 Inheritance|	inheritance.js|15
+Arrow functions|	arrowFunctions.js|15
+Javascript Strings|	DateString.js|15
 
