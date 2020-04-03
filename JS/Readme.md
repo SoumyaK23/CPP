@@ -21,4 +21,7 @@ Classes|	Classes.js|	15
 Inheritance|	inheritance.js|15
 Arrow functions|	arrowFunctions.js|15
 Javascript Strings|	DateString.js|15
+Regular Expressions I|	RegEx1.js|15
+Regular Expressions II|	RegEx2.js|15
+Regular Expressions III|	RegEx3.js|15
 
